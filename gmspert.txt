@@ -1,1 +1,1 @@
-{"ksmo":1,"spnos":"null"}
+{"ksmo":0,"spnos":"null"}
